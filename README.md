@@ -1,4 +1,5 @@
 yarn start - start dev server on `http://localhost:3001/`
+
 yarn test:e2e - run tests (make sure you run `yarn start` before testing)
 
 The small test that we would like you to do is to make your own market widget UI on React using the REST API and WebSockets as follow picture shows.
